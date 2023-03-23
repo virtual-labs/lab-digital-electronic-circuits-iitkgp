@@ -83,18 +83,15 @@
     }
   ],
   "targetAudience": {
-    "UG": [
-      "Electronics Engineering, Electrical branches."
-    ],
-    "PG": [
-      "Electronics Engineering, Electrical branches."
-    ]
+    "UG": ["Electronics Engineering, Electrical branches."],
+    "PG": ["Electronics Engineering, Electrical branches."]
   },
   "objective": "Laboratory courses on hands-on experiments are integral parts of engineering education. The content of this website aims to provide a virtual laboratory platform for undergraduate Engineering students studying the course of Digital Electronic Circuits. Using this virtual laboratory platform, the students will be able to perform various experiments to supplement their theoretical understanding of digital electronics.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the electronics course of various universities.",
-    "universities": [
-      "IIT Kharagpur"
-    ]
-  }
+    "universities": ["IIT Kharagpur"]
+  },
+  "exp_name": "Design of Arithmetic Logic Unit (ALU)",
+  "exp_short_name": "arithmetic-logic-unit",
+  "version": "v0.1.0"
 }
