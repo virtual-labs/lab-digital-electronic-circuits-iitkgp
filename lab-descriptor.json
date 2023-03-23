@@ -1,23 +1,155 @@
 {
     "broadArea": {
-        "name": "",
-        "link": ""
+        "name": "Electronics and Electrical Communication Engineering",
+        "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
     },
-    "lab": "",
-    "lab_display_name": "",
-    "deployLab": ,
-    "phase": ,
-    "collegeName": "",
-    "baseUrl": "",
-    "introduction": "",
-    "experiments": [],
+    "lab": "Digital Electronic Circuits Laboratory",
+    "lab_display_name": "Digital Electronic Circuits Laboratory",
+    "deployLab":true ,
+    "phase": 3,
+    "collegeName": "IITKGP",
+    "baseUrl": "dec-iitkgp.vlabs.ac.in",
+    "introduction": "The Digital Electronic Circuits Virtual Laboratory is an initiative of Ministry of Human Resource Development (MHRD), Govt. of India, under the National Mission on Education through Information and Communication Technology (NME-ICT).",
+    "experiments": [
+    {
+
+"name": "Analysis of Functions of BCD-TO-7-segment Decoder / Driver and Operation of 7-segment LED Display",
+
+"short-name": "7-segment-led-display",
+
+"repo": "https://github.com/virtual-labs/exp-7-segment-led-display-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+{
+
+"name": "Characterization of Digital Logic Families",
+
+"short-name": "digital-logic-families",
+
+"repo": "https://github.com/virtual-labs/exp-digital-logic-families-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+{
+
+"name": "Analysis and Synthesis of Boolean Expressions using Basic Logic Gates",
+
+"short-name": "basic-logic-gates",
+
+"repo": "https://github.com/virtual-labs/exp-basic-logic-gates-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+{
+
+"name": "Analysis and Synthesis of Logic Functions using Multiplexers",
+
+"short-name": "functions-using-multiplexers",
+
+"repo": "https://github.com/virtual-labs/exp-functions-using-multiplexers-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+{
+
+"name": "Analysis and Synthesis of Logic Functions using Decoders",
+
+"short-name": "functions-using-decoders",
+
+"repo": "https://github.com/virtual-labs/exp-functions-using-decoders-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+{
+
+"name": "Analysis and Synthesis of Boolean Relations using Digital Comparators",
+
+"short-name": "digital-comparators",
+
+"repo": "https://github.com/virtual-labs/exp-digital-comparators-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+{
+
+"name": "Analysis and Synthesis of Arithmetic Expressions using Adders / Subtractors",
+
+"short-name": "arithmetic-expressions",
+
+"repo": "https://github.com/virtual-labs/exp-arithmetic-expressions-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+{
+
+"name": "Analysis and Synthesis of Sequential Circuits using Basic Flip-Flops",
+
+"short-name": "sequential-circuits",
+
+"repo": "https://github.com/virtual-labs/exp-sequential-circuits-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+{
+
+"name": "Analysis and Synthesis of Multi-bit Sequential Circuits using Shift Registers",
+
+"short-name": "multi-bit-sequential-circuits",
+
+"repo": "https://github.com/virtual-labs/exp-multi-bit-sequential-circuits-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+{
+
+"name": "Design of Arithmetic Logic Unit (ALU)",
+
+"short-name": "arithmetic-logic-unit",
+
+"repo": "https://github.com/virtual-labs/exp-arithmetic-logic-unit-iitkgp",
+
+"tag": "v1.0.0",
+
+"deploy": true
+
+}, 
+
+],
     "targetAudience": {
-        "UG": [],
-        "PG": []
+        "UG": ["Electronics Engineering, Electrical branches".],
+        "PG": ["Electronics Engineering, Electrical branches."]
     },
     "objective": "",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The lab contents are chosen such that it covers the syllabi of the electronics course of various universities.",
+        "universities": ["IIT Kharagpur"]
     }
 }
