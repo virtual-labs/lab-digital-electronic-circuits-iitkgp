@@ -6,7 +6,7 @@
   "lab": "Digital Electronic Circuits Laboratory",
   "lab_display_name": "Digital Electronic Circuits Laboratory",
   "deployLab": true,
-  "phase": 3,
+  "phase": 2,
   "collegeName": "IITKGP",
   "baseUrl": "dec-iitkgp.vlabs.ac.in",
   "introduction": "The Digital Electronic Circuits Virtual Laboratory is an initiative of Ministry of Human Resource Development (MHRD), Govt. of India, under the National Mission on Education through Information and Communication Technology (NME-ICT).",
@@ -93,5 +93,5 @@
   },
   "exp_name": "Design of Arithmetic Logic Unit (ALU)",
   "exp_short_name": "arithmetic-logic-unit",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }
