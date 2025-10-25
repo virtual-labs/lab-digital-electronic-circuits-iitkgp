@@ -58,7 +58,7 @@
       "name": "Analysis and Synthesis of Arithmetic Expressions using Adders / Subtractors",
       "short-name": "arithmetic-expressions",
       "repo": "https://github.com/virtual-labs/exp-arithmetic-expressions-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
